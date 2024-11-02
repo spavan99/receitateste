@@ -1,0 +1,16 @@
+﻿@page
+@model MyKitchen.WebApp.Pages.Categories.UpdateModel
+@{
+}
+<form method="post">
+    <div class="form-group">
+        <label>Id</label>
+        <input type="text" name="id" readonly class="form-control" asp-for="@Model.Category.Id">
+    </div>
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" name="name" class="form-control" placeholder="Category Name" asp-for="@Model.Category.Name">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

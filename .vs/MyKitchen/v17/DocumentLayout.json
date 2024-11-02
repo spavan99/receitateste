@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|solutionrelative:mykitchen.repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3232D81-C7B6-484B-8A0C-93802A665ACC}|MyKitchen.Service\\MyKitchen.Service.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3232D81-C7B6-484B-8A0C-93802A665ACC}|MyKitchen.Service\\MyKitchen.Service.csproj|solutionrelative:mykitchen.service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3232D81-C7B6-484B-8A0C-93802A665ACC}|MyKitchen.Service\\MyKitchen.Service.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.service\\implementation\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3232D81-C7B6-484B-8A0C-93802A665ACC}|MyKitchen.Service\\MyKitchen.Service.csproj|solutionrelative:mykitchen.service\\implementation\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|solutionrelative:mykitchen.repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.repository\\implementation\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|solutionrelative:mykitchen.repository\\implementation\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|solutionrelative:mykitchen.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA32AF25-602F-4A22-844A-9FDD44ACAF0A}|MyKitchen.Model\\MyKitchen.Model.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA32AF25-602F-4A22-844A-9FDD44ACAF0A}|MyKitchen.Model\\MyKitchen.Model.csproj|solutionrelative:mykitchen.model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.repository\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00881CFD-01CD-4D8A-81CE-594E3EEB2000}|MyKitchen.Repository\\MyKitchen.Repository.csproj|solutionrelative:mykitchen.repository\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA32AF25-602F-4A22-844A-9FDD44ACAF0A}|MyKitchen.Model\\MyKitchen.Model.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.model\\ingredientline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA32AF25-602F-4A22-844A-9FDD44ACAF0A}|MyKitchen.Model\\MyKitchen.Model.csproj|solutionrelative:mykitchen.model\\ingredientline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.webapp\\mykitchen.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|solutionrelative:mykitchen.webapp\\mykitchen.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.webapp\\pages\\recipes\\retrieveall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|solutionrelative:mykitchen.webapp\\pages\\recipes\\retrieveall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|s:\\assembly\\daniela\\mykitchen-v5\\mykitchen\\mykitchen.webapp\\pages\\recipes\\retrieveall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64664210-1C9E-483D-9AB3-FD2E7F3B35AD}|MyKitchen.WebApp\\MyKitchen.WebApp.csproj|solutionrelative:mykitchen.webapp\\pages\\recipes\\retrieveall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "MyKitchen.Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:48:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Repository\\Implementation\\RecipeRepository.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\RecipeRepository.cs",
+              "RelativeToolTip": "MyKitchen.Repository\\Implementation\\RecipeRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:48:14.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Repository\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "MyKitchen.Repository\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:48:00.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Service\\Implementation\\RecipeService.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Service\\Implementation\\RecipeService.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Service\\Implementation\\RecipeService.cs",
+              "RelativeToolTip": "MyKitchen.Service\\Implementation\\RecipeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:42:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Model\\Recipe.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Model\\Recipe.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Model\\Recipe.cs",
+              "RelativeToolTip": "MyKitchen.Model\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:47:05.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Service\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Service\\Implementation\\CategoryService.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Service\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "MyKitchen.Service\\Implementation\\CategoryService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:44:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Repository\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "MyKitchen.Repository\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:44:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\SQL.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Repository\\SQL.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Repository\\SQL.cs",
+              "RelativeToolTip": "MyKitchen.Repository\\SQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:48:40.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngredientLine.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Model\\IngredientLine.cs",
+              "RelativeDocumentMoniker": "MyKitchen.Model\\IngredientLine.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.Model\\IngredientLine.cs",
+              "RelativeToolTip": "MyKitchen.Model\\IngredientLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:47:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyKitchen.WebApp",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\MyKitchen.WebApp.csproj",
+              "RelativeDocumentMoniker": "MyKitchen.WebApp\\MyKitchen.WebApp.csproj",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\MyKitchen.WebApp.csproj",
+              "RelativeToolTip": "MyKitchen.WebApp\\MyKitchen.WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T21:42:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RetrieveAll.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml",
+              "RelativeDocumentMoniker": "MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml",
+              "RelativeToolTip": "MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T19:43:59.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RetrieveAll.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml.cs",
+              "RelativeDocumentMoniker": "MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\MyKitchen-v5\\MyKitchen\\MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml.cs",
+              "RelativeToolTip": "MyKitchen.WebApp\\Pages\\Recipes\\RetrieveAll.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:32:30.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

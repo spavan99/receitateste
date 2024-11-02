@@ -1,0 +1,36 @@
+﻿@page
+@model MyKitchen.WebApp.Pages.Users.Admin.RetrieveAllModel
+@{}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Username</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">IsAdmin</th>
+            <th scope="col">IsBlocked</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <th scope="row">@user.Id</th>
+                <td>@user.Username</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>
+                    <a asp-area="" asp-page="/users/admin/changeadmin" asp-route-id="@user.Id"> @user.IsAdmin </a>
+                </td>
+                <td>@user.IsBlocked</td>
+                <td>
+                    <a class="fa-solid fa-pencil" asp-page="/users/admin/Update" asp-route-id="@user.Id"></a> /
+                    <a class="fa-solid fa-trash" asp-page="/users/admin/Delete" asp-route-id="@user.Id"></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

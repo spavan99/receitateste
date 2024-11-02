@@ -1,0 +1,11 @@
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\bin\Debug\net8.0\MyKitchen.Model.deps.json
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\bin\Debug\net8.0\MyKitchen.Model.dll
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\bin\Debug\net8.0\MyKitchen.Model.pdb
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.dll
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\refint\MyKitchen.Model.dll
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\MyKitchen.Model.pdb
+S:\ASSEMBLY\Daniela\MyKitchen-v5\MyKitchen\MyKitchen.Model\obj\Debug\net8.0\ref\MyKitchen.Model.dll

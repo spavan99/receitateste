@@ -1,0 +1,18 @@
+﻿@page
+@model MyKitchen.WebApp.Pages.Users.LoginModel
+@{
+}
+<form class="myForm" method="post">
+    <div class="form-group">
+        <label>Username</label>
+        <input type="text" name="username" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input type="text" name="password" class="form-control">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<a asp-page="/users/register"> Register Here! </a>

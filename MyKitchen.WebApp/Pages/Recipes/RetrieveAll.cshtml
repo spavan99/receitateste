@@ -1,0 +1,88 @@
+﻿@page
+@model MyKitchen.WebApp.Pages.Recipes.RetrieveAllModel
+@{}
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" name="name" class="form-control" placeholder="Recipe Name" asp-for="@Model.Recipe.Name">
+    </div>
+
+    <div class="form-group">
+        <label>Description</label>
+        <input type="text" name="description" class="form-control" placeholder="Recipe Description" asp-for="@Model.Recipe.Description">
+    </div>
+
+    <div class="form-group">
+        <label>Owner</label>
+        <input type="text" readonly name="owner" class="form-control" value="@Model.User.Name">
+    </div>
+    <div class ="form-group">
+        <label>Category</label>
+        <select name="category" class="form-select">
+            <option selected>Open this select menu</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Recipe Image</label>
+        <input class="form-control" name="image" type="file" id="image" asp-for="Image">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Owner</th>
+            <th scope="col">Category</th>
+            <th scope="col">Preparation Time</th>
+            <th scope="col">Preparation Method</th>
+            <th scope="col">Difficulty</th>
+            <th scope="col">IsApproved</th>
+            <th scope="col">Ingredients</th>
+            <th scope="col">Image</th>
+            <th scope="col">Rating</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var recipe in Model.Recipes)
+        {
+            <tr>
+                <th scope="row">@recipe.Id</th>
+                <td>@recipe.Name</td>
+                <td>@recipe.Description</td>
+                <td>@recipe.Owner.Name</td>
+                <td>@recipe.Category.Name</td>
+                <td>@recipe.PreparationTime</td>
+                <td>@recipe.PreparationMethod</td>
+                <td>@recipe.Difficulty.Name</td>
+                <td>@recipe.IsApproved</td>
+                <td>
+                @foreach (var ingredient in recipe.Ingredients)
+                {
+                        <div>@ingredient.Ingredient.Name</div>
+                        <div>,</div>
+                        <div>@ingredient.Amount</div>
+                        <div>@ingredient.MeasureUnit.Name</div>
+                }
+                </td>
+                <td><img src="~/img/@recipe.Image" width="100px" height="100px" /></td>
+                <td>@recipe.Rating</td>
+                <td>
+                    <a class="fa-solid fa-pencil" asp-page="/recipes/Update" asp-route-id="@recipe.Id"></a> /
+                    <a class="fa-solid fa-trash" asp-page="/recipes/Delete" asp-route-id="@recipe.Id"></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
